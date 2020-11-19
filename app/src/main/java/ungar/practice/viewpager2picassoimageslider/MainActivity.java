@@ -1,4 +1,4 @@
-package ungar.mvp.viewpager2picassoimageslider;
+package ungar.practice.viewpager2picassoimageslider;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager2.widget.ViewPager2;

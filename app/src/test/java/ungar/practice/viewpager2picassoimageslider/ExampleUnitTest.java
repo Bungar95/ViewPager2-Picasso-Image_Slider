@@ -1,4 +1,4 @@
-package ungar.mvp.viewpager2picassoimageslider;
+package ungar.practice.viewpager2picassoimageslider;
 
 import org.junit.Test;
 
